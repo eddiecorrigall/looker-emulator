@@ -1,0 +1,9 @@
+---
+- name: staging
+  dialect: postgresql
+  driver: psycopg2
+  username: USERNAME
+  password: PASSWORD
+  hostname: HOSTNAME
+  port: 5439
+  database: DATABASE
